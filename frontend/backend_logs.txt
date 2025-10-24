@@ -1,0 +1,1645 @@
+2025-10-18T03:56:25.795658Z	
+2025-10-18T03:56:25.358964Z	
+2025-10-17T19:01:06.882439Z	
+2025-10-17T19:01:05.683558Z	Database connection successful.
+2025-10-17T19:01:05.587037Z	
+2025-10-17T19:01:05.460828Z	Server listening on port 8080
+2025-10-17T19:01:05.460512Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T19:01:04.969997Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T19:01:04.511785Z	> node dist/server.js
+2025-10-17T19:01:04.511768Z	> studio-backend@1.0.0 start
+2025-10-17T19:01:03.479863Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T19:00:59.061177Z	
+2025-10-17T19:00:40.487070Z	
+2025-10-17T19:00:39.199303Z	
+2025-10-17T19:00:38.297033Z	Database connection successful.
+2025-10-17T19:00:38.155610Z	Database connection successful.
+2025-10-17T19:00:38.082655Z	Server listening on port 8080
+2025-10-17T19:00:38.082416Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T19:00:37.970060Z	Server listening on port 8080
+2025-10-17T19:00:37.969757Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T19:00:37.691911Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T19:00:37.570569Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T19:00:37.330867Z	> node dist/server.js
+2025-10-17T19:00:37.330860Z	> studio-backend@1.0.0 start
+2025-10-17T19:00:37.176872Z	> node dist/server.js
+2025-10-17T19:00:37.176858Z	> studio-backend@1.0.0 start
+2025-10-17T19:00:36.470869Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T19:00:36.369481Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T19:00:33.155966Z	
+2025-10-17T19:00:30.889522664Z	Container called exit(1).
+2025-10-17T19:00:27.237081Z	}
+2025-10-17T19:00:27.237077Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T19:00:27.237073Z	      at Socket.emit (node:events:524:28)
+2025-10-17T19:00:27.237069Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T19:00:27.237067Z	      at Connection.emit (node:events:524:28)
+2025-10-17T19:00:27.237064Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T19:00:27.237061Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T19:00:27.237058Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T19:00:27.237050Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T19:00:27.237047Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T19:00:27.237043Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T19:00:27.237020Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T19:00:26.172728Z	
+2025-10-17T19:00:24.718350Z	
+2025-10-17T19:00:23.769534Z	Database connection successful.
+2025-10-17T19:00:23.594197Z	Server listening on port 8080
+2025-10-17T19:00:23.594056Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T19:00:23.471527Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T19:00:23.457492Z	Server listening on port 8080
+2025-10-17T19:00:23.105122Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T19:00:22.939085Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T19:00:22.701617Z	> node dist/server.js
+2025-10-17T19:00:22.701604Z	> studio-backend@1.0.0 start
+2025-10-17T19:00:22.494903Z	> node dist/server.js
+2025-10-17T19:00:22.494886Z	> studio-backend@1.0.0 start
+2025-10-17T19:00:21.550417Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T19:00:21.461925Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T19:00:17.970387Z	
+2025-10-17T18:48:28.634111Z	npm error A complete log of this run can be found in: /root/.npm/_logs/2025-10-17T18_37_26_102Z-debug-0.log
+2025-10-17T18:48:28.632858Z	npm error command sh -c node dist/server.js
+2025-10-17T18:48:28.632855Z	npm error signal SIGTERM
+2025-10-17T18:48:28.632851Z	npm error command failed
+2025-10-17T18:48:28.632831Z	npm error path /app/backend
+2025-10-17T18:47:34.149160Z	
+2025-10-17T18:47:31.742013Z	
+2025-10-17T18:47:31.613890Z	Database connection successful.
+2025-10-17T18:47:31.438815Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:47:31.423881Z	Server listening on port 8080
+2025-10-17T18:47:31.112165Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:47:30.804093Z	> node dist/server.js
+2025-10-17T18:47:30.804077Z	> studio-backend@1.0.0 start
+2025-10-17T18:47:30.725928Z	Database connection successful.
+2025-10-17T18:47:30.689507Z	Database connection successful.
+2025-10-17T18:47:30.559662Z	Server listening on port 8080
+2025-10-17T18:47:30.559479Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:47:30.502995Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:47:30.491208Z	Server listening on port 8080
+2025-10-17T18:47:30.126194Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:47:30.048531Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:47:30.047217Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:47:29.769899Z	> node dist/server.js
+2025-10-17T18:47:29.769889Z	> studio-backend@1.0.0 start
+2025-10-17T18:47:29.666774Z	> node dist/server.js
+2025-10-17T18:47:29.666756Z	> studio-backend@1.0.0 start
+2025-10-17T18:47:28.734185Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:47:28.669081Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T18:47:27.475211021Z	Container called exit(1).
+2025-10-17T18:47:25.243002Z	
+2025-10-17T18:47:21.711028Z	
+2025-10-17T18:47:21.173903Z	}
+2025-10-17T18:47:21.173900Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T18:47:21.173898Z	      at Socket.emit (node:events:524:28)
+2025-10-17T18:47:21.173896Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T18:47:21.173894Z	      at Connection.emit (node:events:524:28)
+2025-10-17T18:47:21.173891Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T18:47:21.173889Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T18:47:21.173886Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T18:47:21.173882Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T18:47:21.173880Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T18:47:21.173877Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T18:47:21.173862Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T18:47:19.299354Z	
+2025-10-17T18:47:18.046568Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:47:18.042827Z	Server listening on port 8080
+2025-10-17T18:47:17.547488Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:47:17.134421Z	> node dist/server.js
+2025-10-17T18:47:17.134404Z	> studio-backend@1.0.0 start
+2025-10-17T18:47:16.063343Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:47:08.745049Z	
+2025-10-17T18:38:00.119597Z	
+2025-10-17T18:37:26.902772Z	Database connection successful.
+2025-10-17T18:37:26.683186Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:37:26.682500Z	Server listening on port 8080
+2025-10-17T18:37:26.419873Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:37:26.194164Z	> node dist/server.js
+2025-10-17T18:37:26.194158Z	> studio-backend@1.0.0 start
+2025-10-17T18:37:25.429804Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:37:20.864218292Z	Container called exit(1).
+2025-10-17T18:37:19.954067Z	}
+2025-10-17T18:37:19.954065Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T18:37:19.954062Z	      at Socket.emit (node:events:524:28)
+2025-10-17T18:37:19.954060Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T18:37:19.954057Z	      at Connection.emit (node:events:524:28)
+2025-10-17T18:37:19.954055Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T18:37:19.954053Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T18:37:19.954050Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T18:37:19.954041Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T18:37:19.954039Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T18:37:19.954036Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T18:37:19.954017Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T18:37:18.738383Z	
+2025-10-17T18:37:17.455347Z	
+2025-10-17T18:37:16.220085Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:37:16.213026Z	Server listening on port 8080
+2025-10-17T18:37:15.774754Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:37:15.389275Z	> node dist/server.js
+2025-10-17T18:37:15.389260Z	> studio-backend@1.0.0 start
+2025-10-17T18:37:14.437402Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:37:10.978598Z	
+2025-10-17T18:31:15.904915Z	
+2025-10-17T18:31:14.601249Z	
+2025-10-17T18:31:13.584623Z	Database connection successful.
+2025-10-17T18:31:13.358513Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:31:13.355655Z	Server listening on port 8080
+2025-10-17T18:31:12.938413Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:31:12.579958Z	> node dist/server.js
+2025-10-17T18:31:12.579944Z	> studio-backend@1.0.0 start
+2025-10-17T18:31:11.588397Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:31:08.260986Z	
+2025-10-17T18:30:48.410383Z	
+2025-10-17T18:30:47.160920Z	
+2025-10-17T18:30:46.227765Z	Database connection successful.
+2025-10-17T18:30:45.946107Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:30:45.946078Z	Server listening on port 8080
+2025-10-17T18:30:45.504265Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:30:45.133015Z	> node dist/server.js
+2025-10-17T18:30:45.133001Z	> studio-backend@1.0.0 start
+2025-10-17T18:30:44.231984Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:30:39.767535Z	
+2025-10-17T18:28:45.650037Z	
+2025-10-17T18:28:44.399085Z	
+2025-10-17T18:28:43.425587Z	Database connection successful.
+2025-10-17T18:28:43.175504Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:28:43.169042Z	Server listening on port 8080
+2025-10-17T18:28:42.804846Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:28:41.884041Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:28:37.874864Z	
+2025-10-17T18:28:34.272528Z	
+2025-10-17T18:28:31.876087Z	
+2025-10-17T18:28:30.808035Z	Database connection successful.
+2025-10-17T18:28:30.661983Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:28:30.644787Z	Server listening on port 8080
+2025-10-17T18:28:30.208005Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:28:29.103544Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:28:24.330993Z	
+2025-10-17T18:23:46.289314Z	
+2025-10-17T18:23:44.996830Z	
+2025-10-17T18:23:43.933793Z	Database connection successful.
+2025-10-17T18:23:43.762138Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:23:43.745235Z	Server listening on port 8080
+2025-10-17T18:23:43.259937Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:23:42.138907Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:23:38.594659Z	
+2025-10-17T18:23:18.793858Z	
+2025-10-17T18:23:17.551799Z	Database connection successful.
+2025-10-17T18:23:17.507419Z	
+2025-10-17T18:23:17.395038Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:23:17.375297Z	Server listening on port 8080
+2025-10-17T18:23:16.985270Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:23:15.960840Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:23:11.675223Z	
+2025-10-17T18:17:11.912287Z	Database connection successful.
+2025-10-17T18:17:11.709956Z	Server listening on port 8080
+2025-10-17T18:17:11.709605Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:17:11.320411Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:17:10.380465Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:17:05.886884395Z	Container called exit(1).
+2025-10-17T18:17:04.714522Z	}
+2025-10-17T18:17:04.714520Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T18:17:04.714518Z	      at Socket.emit (node:events:524:28)
+2025-10-17T18:17:04.714515Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T18:17:04.714513Z	      at Connection.emit (node:events:524:28)
+2025-10-17T18:17:04.714510Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T18:17:04.714508Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T18:17:04.714505Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T18:17:04.714500Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T18:17:04.714497Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T18:17:04.714494Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T18:17:04.714485Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T18:17:00.735193Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:17:00.732570Z	Server listening on port 8080
+2025-10-17T18:17:00.362816Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:16:59.379925Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:16:55.815072307Z	Container called exit(1).
+2025-10-17T18:16:54.512625Z	}
+2025-10-17T18:16:54.512621Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T18:16:54.512617Z	      at Socket.emit (node:events:524:28)
+2025-10-17T18:16:54.512614Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T18:16:54.512605Z	      at Connection.emit (node:events:524:28)
+2025-10-17T18:16:54.512601Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T18:16:54.512598Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T18:16:54.512594Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T18:16:54.512589Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T18:16:54.512585Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T18:16:54.512582Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T18:16:54.512566Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T18:16:53.400272Z	
+2025-10-17T18:16:52.080773Z	
+2025-10-17T18:16:50.814576Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:16:50.814030Z	Server listening on port 8080
+2025-10-17T18:16:50.381256Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:16:49.388618Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:16:42.537589Z	
+2025-10-17T18:00:38.561662Z	
+2025-10-17T18:00:37.245689Z	
+2025-10-17T18:00:36.227262Z	Database connection successful.
+2025-10-17T18:00:36.015349Z	Server listening on port 8080
+2025-10-17T18:00:36.015305Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:00:35.599807Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:00:35.242377Z	> node dist/server.js
+2025-10-17T18:00:35.242363Z	> studio-backend@1.0.0 start
+2025-10-17T18:00:34.352344Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T18:00:30.975328Z	
+2025-10-17T18:00:22.925643Z	
+2025-10-17T18:00:21.743753865Z	Container called exit(1).
+2025-10-17T18:00:21.659926Z	
+2025-10-17T18:00:20.613853Z	Database connection successful.
+2025-10-17T18:00:20.428559Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:00:20.428213Z	Server listening on port 8080
+2025-10-17T18:00:20.014432Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:00:19.646879Z	> node dist/server.js
+2025-10-17T18:00:19.646859Z	> studio-backend@1.0.0 start
+2025-10-17T18:00:18.745637Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:00:17.229490Z	}
+2025-10-17T18:00:17.229488Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T18:00:17.229485Z	      at Socket.emit (node:events:524:28)
+2025-10-17T18:00:17.229483Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T18:00:17.229481Z	      at Connection.emit (node:events:524:28)
+2025-10-17T18:00:17.229479Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T18:00:17.229476Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T18:00:17.229474Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T18:00:17.229470Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T18:00:17.229467Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T18:00:17.229464Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T18:00:17.229456Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T18:00:14.814323Z	
+2025-10-17T18:00:13.620359Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:00:13.615288Z	Server listening on port 8080
+2025-10-17T18:00:13.327749Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T18:00:13.061006Z	> node dist/server.js
+2025-10-17T18:00:13.060994Z	> studio-backend@1.0.0 start
+2025-10-17T18:00:12.322151Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T18:00:08.786179214Z	Container called exit(1).
+2025-10-17T18:00:03.983580Z	}
+2025-10-17T18:00:03.983576Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T18:00:03.983573Z	      at Socket.emit (node:events:524:28)
+2025-10-17T18:00:03.983569Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T18:00:03.983565Z	      at Connection.emit (node:events:524:28)
+2025-10-17T18:00:03.983561Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T18:00:03.983556Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T18:00:03.983551Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T18:00:03.983543Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T18:00:03.983539Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T18:00:03.983533Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T18:00:03.983513Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T18:00:02.589185Z	
+2025-10-17T18:00:01.293439Z	
+2025-10-17T18:00:00.150749Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T18:00:00.137544Z	Server listening on port 8080
+2025-10-17T17:59:59.695103Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:59:59.324455Z	> node dist/server.js
+2025-10-17T17:59:59.324441Z	> studio-backend@1.0.0 start
+2025-10-17T17:59:58.330796Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:59:54.443680Z	
+2025-10-17T17:57:22.260899Z	Database connection successful.
+2025-10-17T17:57:22.245398Z	}
+2025-10-17T17:57:22.245395Z	  help: 'https://express-rate-limit.github.io/ERR_ERL_PERMISSIVE_TRUST_PROXY/'
+2025-10-17T17:57:22.245391Z	  code: 'ERR_ERL_PERMISSIVE_TRUST_PROXY',
+2025-10-17T17:57:22.245373Z	ValidationError: The Express 'trust proxy' setting is true, which allows anyone to trivially bypass IP-based rate limiting. See https://express-rate-limit.github.io/ERR_ERL_PERMISSIVE_TRUST_PROXY/ for more information.
+    at Object.trustProxy (/app/backend/node_modules/express-rate-limit/dist/index.cjs:167:13)
+    at wrappedValidations.<computed> [as trustProxy] (/app/backend/node_modules/express-rate-limit/dist/index.cjs:397:22)
+    at Object.keyGenerator (/app/backend/node_modules/express-rate-limit/dist/index.cjs:657:20)
+    at /app/backend/node_modules/express-rate-limit/dist/index.cjs:710:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /app/backend/node_modules/express-rate-limit/dist/index.cjs:691:5 {
+2025-10-17T17:57:22.225874Z	
+2025-10-17T17:57:21.151567Z	Server listening on port 8080
+2025-10-17T17:57:21.151271Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:57:20.816005Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:57:20.476227Z	> node dist/server.js
+2025-10-17T17:57:20.476210Z	> studio-backend@1.0.0 start
+2025-10-17T17:57:19.690039Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:57:18.546286Z	
+2025-10-17T17:57:13.859577900Z	Container called exit(1).
+2025-10-17T17:57:12.119227286Z	Container called exit(1).
+2025-10-17T17:57:09.480330Z	}
+2025-10-17T17:57:09.480327Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:57:09.480324Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:57:09.480321Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:57:09.480318Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:57:09.480316Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:57:09.480313Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:57:09.480310Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:57:09.480305Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:57:09.480302Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:57:09.480299Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:57:09.480285Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:57:09.128159Z	
+2025-10-17T17:57:08.679750Z	}
+2025-10-17T17:57:08.679747Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:57:08.679744Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:57:08.679741Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:57:08.679738Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:57:08.679735Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:57:08.679732Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:57:08.679729Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:57:08.679723Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:57:08.679720Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:57:08.679717Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:57:08.679696Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:57:06.706774Z	
+2025-10-17T17:57:05.685821Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:57:05.668615Z	Server listening on port 8080
+2025-10-17T17:57:05.479235Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:57:05.477272Z	Server listening on port 8080
+2025-10-17T17:57:05.127086Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:57:04.932372Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:57:04.681174Z	> node dist/server.js
+2025-10-17T17:57:04.681165Z	> studio-backend@1.0.0 start
+2025-10-17T17:57:04.463860Z	> node dist/server.js
+2025-10-17T17:57:04.463842Z	> studio-backend@1.0.0 start
+2025-10-17T17:57:03.689741Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:57:03.421368Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:56:57.642876Z	
+2025-10-17T17:42:44.456276Z	
+2025-10-17T17:42:44.029988Z	}
+2025-10-17T17:42:44.029985Z	  help: 'https://express-rate-limit.github.io/ERR_ERL_PERMISSIVE_TRUST_PROXY/'
+2025-10-17T17:42:44.029979Z	  code: 'ERR_ERL_PERMISSIVE_TRUST_PROXY',
+2025-10-17T17:42:44.029962Z	ValidationError: The Express 'trust proxy' setting is true, which allows anyone to trivially bypass IP-based rate limiting. See https://express-rate-limit.github.io/ERR_ERL_PERMISSIVE_TRUST_PROXY/ for more information.
+    at Object.trustProxy (/app/backend/node_modules/express-rate-limit/dist/index.cjs:167:13)
+    at wrappedValidations.<computed> [as trustProxy] (/app/backend/node_modules/express-rate-limit/dist/index.cjs:397:22)
+    at Object.keyGenerator (/app/backend/node_modules/express-rate-limit/dist/index.cjs:657:20)
+    at /app/backend/node_modules/express-rate-limit/dist/index.cjs:710:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /app/backend/node_modules/express-rate-limit/dist/index.cjs:691:5 {
+2025-10-17T17:42:44.013557Z	
+2025-10-17T17:40:47.012800Z	Database connection successful.
+2025-10-17T17:40:46.844798Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:40:46.827600Z	Server listening on port 8080
+2025-10-17T17:40:46.478856Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:40:46.153705Z	> node dist/server.js
+2025-10-17T17:40:46.153697Z	> studio-backend@1.0.0 start
+2025-10-17T17:40:45.433250Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:40:40.845386691Z	Container called exit(1).
+2025-10-17T17:40:36.499807Z	}
+2025-10-17T17:40:36.499804Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:40:36.499801Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:40:36.499799Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:40:36.499797Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:40:36.499794Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:40:36.499791Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:40:36.499788Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:40:36.499784Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:40:36.499781Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:40:36.499777Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:40:36.499758Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:40:32.972846Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:40:32.958299Z	Server listening on port 8080
+2025-10-17T17:40:32.606686Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:40:32.239052Z	> node dist/server.js
+2025-10-17T17:40:32.239044Z	> studio-backend@1.0.0 start
+2025-10-17T17:40:31.431240Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:40:26.855838695Z	Container called exit(1).
+2025-10-17T17:40:22.199695Z	}
+2025-10-17T17:40:22.199693Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:40:22.199690Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:40:22.199687Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:40:22.199685Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:40:22.199682Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:40:22.199679Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:40:22.199675Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:40:22.199671Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:40:22.199668Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:40:22.199664Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:40:22.199646Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:40:17.908139Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:40:17.888387Z	Server listening on port 8080
+2025-10-17T17:40:17.545156Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:40:17.219343Z	> node dist/server.js
+2025-10-17T17:40:17.219335Z	> studio-backend@1.0.0 start
+2025-10-17T17:40:16.431060Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:40:12.860718878Z	Container called exit(1).
+2025-10-17T17:40:08.598915Z	}
+2025-10-17T17:40:08.598911Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:40:08.598907Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:40:08.598903Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:40:08.598897Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:40:08.598894Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:40:08.598891Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:40:08.598886Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:40:08.598879Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:40:08.598876Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:40:08.598871Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:40:08.598846Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:40:04.950825Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:40:04.935546Z	Server listening on port 8080
+2025-10-17T17:40:04.584482Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:40:04.226519Z	> node dist/server.js
+2025-10-17T17:40:04.226502Z	> studio-backend@1.0.0 start
+2025-10-17T17:40:03.430625Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:39:58.877702496Z	Container called exit(1).
+2025-10-17T17:39:54.301828Z	}
+2025-10-17T17:39:54.301825Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:39:54.301823Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:39:54.301820Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:39:54.301817Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:39:54.301814Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:39:54.301812Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:39:54.301809Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:39:54.301804Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:39:54.301801Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:39:54.301797Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:39:54.301786Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:39:49.895944Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:39:49.894845Z	Server listening on port 8080
+2025-10-17T17:39:49.551263Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:39:49.225724Z	> node dist/server.js
+2025-10-17T17:39:49.225707Z	> studio-backend@1.0.0 start
+2025-10-17T17:39:48.431565Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:39:43.858471457Z	Container called exit(1).
+2025-10-17T17:39:39.498927Z	}
+2025-10-17T17:39:39.498925Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:39:39.498920Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:39:39.498916Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:39:39.498910Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:39:39.498906Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:39:39.498902Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:39:39.498898Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:39:39.498888Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:39:39.498884Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:39:39.498878Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:39:39.498862Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:39:34.895994Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:39:34.885316Z	Server listening on port 8080
+2025-10-17T17:39:34.542841Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:39:34.200851Z	> node dist/server.js
+2025-10-17T17:39:34.200835Z	> studio-backend@1.0.0 start
+2025-10-17T17:39:33.429216Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:39:29.854270975Z	Container called exit(1).
+2025-10-17T17:39:25.698973Z	}
+2025-10-17T17:39:25.698970Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:39:25.698964Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:39:25.698961Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:39:25.698958Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:39:25.698937Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:39:25.698933Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:39:25.698923Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:39:25.698916Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:39:25.698911Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:39:25.698906Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:39:25.698871Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:39:23.894462Z	
+2025-10-17T17:39:21.485006Z	
+2025-10-17T17:39:21.371402Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:39:21.351834Z	Server listening on port 8080
+2025-10-17T17:39:20.852194Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:39:20.451490Z	> node dist/server.js
+2025-10-17T17:39:20.451475Z	> studio-backend@1.0.0 start
+2025-10-17T17:39:19.436700Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:39:05.549740Z	
+2025-10-17T17:35:48.753349Z	Database connection successful.
+2025-10-17T17:35:48.570985Z	Server listening on port 8080
+2025-10-17T17:35:48.570855Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:35:48.329790Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:35:47.624849Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:35:41.513803208Z	Container called exit(1).
+2025-10-17T17:35:40.072551Z	}
+2025-10-17T17:35:40.072548Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:35:40.072545Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:35:40.072543Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:35:40.072541Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:35:40.072538Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:35:40.072536Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:35:40.072534Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:35:40.072530Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:35:40.072528Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:35:40.072525Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:35:40.072509Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:35:37.145745Z	Server listening on port 8080
+2025-10-17T17:35:37.145542Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:35:36.825326Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:35:35.625019Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:35:26.042691909Z	Container called exit(1).
+2025-10-17T17:35:25.371128Z	}
+2025-10-17T17:35:25.371126Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:35:25.371125Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:35:25.371123Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:35:25.371121Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:35:25.371119Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:35:25.371117Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:35:25.371114Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:35:25.371111Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:35:25.371109Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:35:25.371106Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:35:25.371099Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:35:21.639425Z	Server listening on port 8080
+2025-10-17T17:35:21.639305Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:35:21.360104Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:35:20.624568Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:35:16.038824577Z	Container called exit(1).
+2025-10-17T17:35:14.771101Z	}
+2025-10-17T17:35:14.771097Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:35:14.771094Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:35:14.771092Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:35:14.771089Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:35:14.771086Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:35:14.771084Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:35:14.771081Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:35:14.771077Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:35:14.771075Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:35:14.771072Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:35:14.771063Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:35:10.652554Z	Server listening on port 8080
+2025-10-17T17:35:10.652386Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:35:10.372934Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:35:09.624492Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:35:06.090688574Z	Container called exit(1).
+2025-10-17T17:35:05.171451Z	}
+2025-10-17T17:35:05.171449Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:35:05.171446Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:35:05.171444Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:35:05.171439Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:35:05.171437Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:35:05.171434Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:35:05.171432Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:35:05.171428Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:35:05.171426Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:35:05.171423Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:35:05.171407Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:35:04.921278Z	
+2025-10-17T17:35:03.643852Z	
+2025-10-17T17:35:02.400619Z	Server listening on port 8080
+2025-10-17T17:35:02.399642Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:35:01.706351Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:35:00.660477Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:34:54.493081Z	
+2025-10-17T17:20:13.883323Z	}
+2025-10-17T17:20:13.883319Z	  help: 'https://express-rate-limit.github.io/ERR_ERL_PERMISSIVE_TRUST_PROXY/'
+2025-10-17T17:20:13.883314Z	  code: 'ERR_ERL_PERMISSIVE_TRUST_PROXY',
+2025-10-17T17:20:13.883304Z	ValidationError: The Express 'trust proxy' setting is true, which allows anyone to trivially bypass IP-based rate limiting. See https://express-rate-limit.github.io/ERR_ERL_PERMISSIVE_TRUST_PROXY/ for more information.
+    at Object.trustProxy (/app/backend/node_modules/express-rate-limit/dist/index.cjs:167:13)
+    at wrappedValidations.<computed> [as trustProxy] (/app/backend/node_modules/express-rate-limit/dist/index.cjs:397:22)
+    at Object.keyGenerator (/app/backend/node_modules/express-rate-limit/dist/index.cjs:657:20)
+    at /app/backend/node_modules/express-rate-limit/dist/index.cjs:710:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /app/backend/node_modules/express-rate-limit/dist/index.cjs:691:5 {
+2025-10-17T17:20:13.866983Z	
+2025-10-17T17:20:05.293721929Z	Container called exit(1).
+2025-10-17T17:20:04.871192Z	}
+2025-10-17T17:20:04.871189Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:20:04.871185Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:20:04.871180Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:20:04.871176Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:20:04.871172Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:20:04.871168Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:20:04.871164Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:20:04.871155Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:20:04.871152Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:20:04.871147Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:20:04.871128Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:20:03.238668Z	
+2025-10-17T17:20:02.093625Z	Database connection successful.
+2025-10-17T17:20:01.971045Z	
+2025-10-17T17:20:01.858610Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:20:01.858422Z	Server listening on port 8080
+2025-10-17T17:20:01.512004Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:20:01.161435Z	Server listening on port 8080
+2025-10-17T17:20:01.160989Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:20:00.420600Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:19:58.857247Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:19:58.524435Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:19:51.520148Z	
+2025-10-17T17:15:46.567617Z	Database connection successful.
+2025-10-17T17:15:46.324825Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:15:46.309944Z	Server listening on port 8080
+2025-10-17T17:15:45.958690Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:15:45.232958Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:15:41.635716312Z	Container called exit(1).
+2025-10-17T17:15:40.593546350Z	Container called exit(1).
+2025-10-17T17:15:39.965392Z	}
+2025-10-17T17:15:39.965390Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:15:39.965387Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:15:39.965385Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:15:39.965382Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:15:39.965378Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:15:39.965375Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:15:39.965373Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:15:39.965368Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:15:39.965366Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:15:39.965362Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:15:39.965350Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:15:39.484835Z	}
+2025-10-17T17:15:39.484831Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:15:39.484827Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:15:39.484823Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:15:39.484819Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:15:39.484814Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:15:39.484811Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:15:39.484806Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:15:39.484799Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:15:39.484794Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:15:39.484790Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:15:39.484767Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:15:38.210797Z	
+2025-10-17T17:15:36.931339Z	
+2025-10-17T17:15:35.731646Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:15:35.715930Z	Server listening on port 8080
+2025-10-17T17:15:35.696994Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:15:35.682023Z	Server listening on port 8080
+2025-10-17T17:15:35.254935Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:15:35.216885Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:15:34.232785Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:15:34.176238Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:15:26.565650Z	
+2025-10-17T17:14:56.721231Z	Database connection successful.
+2025-10-17T17:14:56.452360Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:14:56.445024Z	Server listening on port 8080
+2025-10-17T17:14:56.111248Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:14:55.294023Z	Starting new instance. Reason: MANUAL_OR_CUSTOMER_MIN_INSTANCE - Instance started because of customer-configured min-instances or manual scaling.
+2025-10-17T17:14:49.915448490Z	Container called exit(1).
+2025-10-17T17:14:48.969851Z	}
+2025-10-17T17:14:48.969847Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:14:48.969842Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:14:48.969837Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:14:48.969833Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:14:48.969828Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:14:48.969824Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:14:48.969819Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:14:48.969811Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:14:48.969805Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:14:48.969800Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:14:48.969772Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:14:47.521162Z	
+2025-10-17T17:14:46.336249Z	
+2025-10-17T17:14:45.079534Z	
+2025-10-17T17:14:45.024153Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:14:45.022826Z	Server listening on port 8080
+2025-10-17T17:14:44.548134Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:14:43.291111Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:14:38.265051Z	
+2025-10-17T17:11:48.285250Z	Database connection successful.
+2025-10-17T17:11:47.337023Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:11:47.320108Z	Server listening on port 8080
+2025-10-17T17:11:46.945932Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:11:46.101566Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:11:38.654010622Z	Container called exit(1).
+2025-10-17T17:11:38.084828Z	}
+2025-10-17T17:11:38.084825Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:11:38.084823Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:11:38.084821Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:11:38.084818Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:11:38.084816Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:11:38.084813Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:11:38.084810Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:11:38.084805Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:11:38.084802Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:11:38.084799Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:11:38.084778Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:11:34.452623Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:11:34.435332Z	Server listening on port 8080
+2025-10-17T17:11:34.062683Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:11:33.101292Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:11:27.693226824Z	Container called exit(1).
+2025-10-17T17:11:27.086183Z	}
+2025-10-17T17:11:27.086180Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:11:27.086177Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:11:27.086175Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:11:27.086172Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:11:27.086169Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:11:27.086166Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:11:27.086163Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:11:27.086158Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:11:27.086155Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:11:27.086151Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:11:27.086142Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:11:23.477539Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:11:23.460078Z	Server listening on port 8080
+2025-10-17T17:11:23.101192Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:11:22.100664Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:11:21.386411Z	
+2025-10-17T17:11:17.998068059Z	Container called exit(1).
+2025-10-17T17:11:16.785515Z	}
+2025-10-17T17:11:16.785513Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:11:16.785510Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:11:16.785507Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:11:16.785504Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:11:16.785501Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:11:16.785499Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:11:16.785496Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:11:16.785491Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:11:16.785488Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:11:16.785485Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:11:16.785468Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:11:15.599926Z	
+2025-10-17T17:11:13.188240Z	
+2025-10-17T17:11:13.126574Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:11:13.123197Z	Server listening on port 8080
+2025-10-17T17:11:12.648779Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:11:11.437706Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:11:06.752719Z	
+2025-10-17T17:10:53.866658Z	
+2025-10-17T17:10:53.700201Z	}
+2025-10-17T17:10:53.700197Z	  help: 'https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/'
+2025-10-17T17:10:53.700193Z	  code: 'ERR_ERL_UNEXPECTED_X_FORWARDED_FOR',
+2025-10-17T17:10:53.700175Z	ValidationError: The 'X-Forwarded-For' header is set but the Express 'trust proxy' setting is false (default). This could indicate a misconfiguration which would prevent express-rate-limit from accurately identifying users. See https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/ for more information.
+    at Object.xForwardedForHeader (/app/backend/node_modules/express-rate-limit/dist/index.cjs:185:13)
+    at wrappedValidations.<computed> [as xForwardedForHeader] (/app/backend/node_modules/express-rate-limit/dist/index.cjs:397:22)
+    at Object.keyGenerator (/app/backend/node_modules/express-rate-limit/dist/index.cjs:658:20)
+    at /app/backend/node_modules/express-rate-limit/dist/index.cjs:710:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /app/backend/node_modules/express-rate-limit/dist/index.cjs:691:5 {
+2025-10-17T17:10:53.681589Z	
+2025-10-17T17:10:35.448962Z	
+2025-10-17T17:10:33.144829Z	Database connection successful.
+2025-10-17T17:10:33.019754Z	
+2025-10-17T17:10:32.952019Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:10:32.940617Z	Server listening on port 8080
+2025-10-17T17:10:32.555720Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:10:31.063973Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:10:25.019635Z	
+2025-10-17T17:07:36.803074Z	
+2025-10-17T17:07:35.665191Z	Database connection successful.
+2025-10-17T17:07:35.530094Z	
+2025-10-17T17:07:35.472972Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:07:35.466963Z	Server listening on port 8080
+2025-10-17T17:07:35.020601Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:07:33.851336Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:07:30.274508Z	
+2025-10-17T17:04:57.759822681Z	Container called exit(1).
+2025-10-17T17:04:56.851758Z	}
+2025-10-17T17:04:56.851756Z	  routine: 'auth_failed'
+2025-10-17T17:04:56.851754Z	  line: '365',
+2025-10-17T17:04:56.851751Z	  file: 'auth.c',
+2025-10-17T17:04:56.851749Z	  constraint: undefined,
+2025-10-17T17:04:56.851746Z	  dataType: undefined,
+2025-10-17T17:04:56.851744Z	  column: undefined,
+2025-10-17T17:04:56.851741Z	  table: undefined,
+2025-10-17T17:04:56.851739Z	  schema: undefined,
+2025-10-17T17:04:56.851737Z	  where: undefined,
+2025-10-17T17:04:56.851734Z	  internalQuery: undefined,
+2025-10-17T17:04:56.851731Z	  internalPosition: undefined,
+2025-10-17T17:04:56.851729Z	  position: undefined,
+2025-10-17T17:04:56.851726Z	  hint: undefined,
+2025-10-17T17:04:56.851724Z	  detail: undefined,
+2025-10-17T17:04:56.851722Z	  code: '28P01',
+2025-10-17T17:04:56.851719Z	  severity: 'FATAL',
+2025-10-17T17:04:56.851717Z	  length: 108,
+2025-10-17T17:04:56.851714Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:04:56.851711Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:04:56.851708Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:04:56.851698Z	Failed to connect to the database: error: password authentication failed for user "studio_admin"
+2025-10-17T17:04:56.832489Z	}
+2025-10-17T17:04:56.832486Z	  help: 'https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/'
+2025-10-17T17:04:56.832483Z	  code: 'ERR_ERL_UNEXPECTED_X_FORWARDED_FOR',
+2025-10-17T17:04:56.832468Z	ValidationError: The 'X-Forwarded-For' header is set but the Express 'trust proxy' setting is false (default). This could indicate a misconfiguration which would prevent express-rate-limit from accurately identifying users. See https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/ for more information.
+    at Object.xForwardedForHeader (/app/backend/node_modules/express-rate-limit/dist/index.cjs:185:13)
+    at wrappedValidations.<computed> [as xForwardedForHeader] (/app/backend/node_modules/express-rate-limit/dist/index.cjs:397:22)
+    at Object.keyGenerator (/app/backend/node_modules/express-rate-limit/dist/index.cjs:658:20)
+    at /app/backend/node_modules/express-rate-limit/dist/index.cjs:710:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /app/backend/node_modules/express-rate-limit/dist/index.cjs:691:5 {
+2025-10-17T17:04:56.474319Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:04:56.474278Z	Server listening on port 8080
+2025-10-17T17:04:56.130291Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:04:55.230184Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:04:55.225032Z	
+2025-10-17T17:03:54.158929Z	The request failed because either the HTTP response was malformed or connection to the instance had an error. Additional troubleshooting documentation can be found at: https://cloud.google.com/run/docs/troubleshooting#malformed-response-or-connection-error
+2025-10-17T17:03:54.050712Z	}
+2025-10-17T17:03:54.050709Z	  routine: 'auth_failed'
+2025-10-17T17:03:54.050707Z	  line: '365',
+2025-10-17T17:03:54.050704Z	  file: 'auth.c',
+2025-10-17T17:03:54.050702Z	  constraint: undefined,
+2025-10-17T17:03:54.050699Z	  dataType: undefined,
+2025-10-17T17:03:54.050697Z	  column: undefined,
+2025-10-17T17:03:54.050694Z	  table: undefined,
+2025-10-17T17:03:54.050692Z	  schema: undefined,
+2025-10-17T17:03:54.050691Z	  where: undefined,
+2025-10-17T17:03:54.050688Z	  internalQuery: undefined,
+2025-10-17T17:03:54.050686Z	  internalPosition: undefined,
+2025-10-17T17:03:54.050683Z	  position: undefined,
+2025-10-17T17:03:54.050679Z	  hint: undefined,
+2025-10-17T17:03:54.050676Z	  detail: undefined,
+2025-10-17T17:03:54.050674Z	  code: '28P01',
+2025-10-17T17:03:54.050671Z	  severity: 'FATAL',
+2025-10-17T17:03:54.050669Z	  length: 108,
+2025-10-17T17:03:54.050666Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:03:54.050663Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:03:54.050660Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:03:54.050649Z	Failed to connect to the database: error: password authentication failed for user "studio_admin"
+2025-10-17T17:03:54.021095Z	}
+2025-10-17T17:03:54.021092Z	  help: 'https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/'
+2025-10-17T17:03:54.021088Z	  code: 'ERR_ERL_UNEXPECTED_X_FORWARDED_FOR',
+2025-10-17T17:03:54.021070Z	ValidationError: The 'X-Forwarded-For' header is set but the Express 'trust proxy' setting is false (default). This could indicate a misconfiguration which would prevent express-rate-limit from accurately identifying users. See https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/ for more information.
+    at Object.xForwardedForHeader (/app/backend/node_modules/express-rate-limit/dist/index.cjs:185:13)
+    at wrappedValidations.<computed> [as xForwardedForHeader] (/app/backend/node_modules/express-rate-limit/dist/index.cjs:397:22)
+    at Object.keyGenerator (/app/backend/node_modules/express-rate-limit/dist/index.cjs:658:20)
+    at /app/backend/node_modules/express-rate-limit/dist/index.cjs:710:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /app/backend/node_modules/express-rate-limit/dist/index.cjs:691:5 {
+2025-10-17T17:03:53.677662Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:03:53.660177Z	Server listening on port 8080
+2025-10-17T17:03:53.316481Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:03:52.400385Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:03:52.398758Z	
+2025-10-17T17:03:18.487057Z	The request failed because either the HTTP response was malformed or connection to the instance had an error. Additional troubleshooting documentation can be found at: https://cloud.google.com/run/docs/troubleshooting#malformed-response-or-connection-error
+2025-10-17T17:03:18.211075Z	}
+2025-10-17T17:03:18.211072Z	  routine: 'auth_failed'
+2025-10-17T17:03:18.211070Z	  line: '365',
+2025-10-17T17:03:18.211068Z	  file: 'auth.c',
+2025-10-17T17:03:18.211065Z	  constraint: undefined,
+2025-10-17T17:03:18.211063Z	  dataType: undefined,
+2025-10-17T17:03:18.211061Z	  column: undefined,
+2025-10-17T17:03:18.211059Z	  table: undefined,
+2025-10-17T17:03:18.211057Z	  schema: undefined,
+2025-10-17T17:03:18.211055Z	  where: undefined,
+2025-10-17T17:03:18.211052Z	  internalQuery: undefined,
+2025-10-17T17:03:18.211049Z	  internalPosition: undefined,
+2025-10-17T17:03:18.211047Z	  position: undefined,
+2025-10-17T17:03:18.211044Z	  hint: undefined,
+2025-10-17T17:03:18.211042Z	  detail: undefined,
+2025-10-17T17:03:18.211039Z	  code: '28P01',
+2025-10-17T17:03:18.211037Z	  severity: 'FATAL',
+2025-10-17T17:03:18.211034Z	  length: 108,
+2025-10-17T17:03:18.211031Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:03:18.211029Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:03:18.211025Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:03:18.211009Z	Failed to connect to the database: error: password authentication failed for user "studio_admin"
+2025-10-17T17:03:18.177638Z	}
+2025-10-17T17:03:18.177634Z	  help: 'https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/'
+2025-10-17T17:03:18.177627Z	  code: 'ERR_ERL_UNEXPECTED_X_FORWARDED_FOR',
+2025-10-17T17:03:18.177617Z	ValidationError: The 'X-Forwarded-For' header is set but the Express 'trust proxy' setting is false (default). This could indicate a misconfiguration which would prevent express-rate-limit from accurately identifying users. See https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/ for more information.
+    at Object.xForwardedForHeader (/app/backend/node_modules/express-rate-limit/dist/index.cjs:185:13)
+    at wrappedValidations.<computed> [as xForwardedForHeader] (/app/backend/node_modules/express-rate-limit/dist/index.cjs:397:22)
+    at Object.keyGenerator (/app/backend/node_modules/express-rate-limit/dist/index.cjs:658:20)
+    at /app/backend/node_modules/express-rate-limit/dist/index.cjs:710:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /app/backend/node_modules/express-rate-limit/dist/index.cjs:691:5 {
+2025-10-17T17:03:17.968348Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:03:17.961347Z	Server listening on port 8080
+2025-10-17T17:03:17.602205Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:03:16.223846Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:03:16.217959Z	
+2025-10-17T17:03:10.208305100Z	Container called exit(1).
+2025-10-17T17:03:08.516387Z	}
+2025-10-17T17:03:08.516385Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:03:08.516382Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:03:08.516380Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:03:08.516377Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:03:08.516374Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:03:08.516371Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:03:08.516368Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:03:08.516363Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:03:08.516360Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:03:08.516356Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:03:08.516335Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:03:06.844235Z	
+2025-10-17T17:03:04.414927Z	
+2025-10-17T17:03:04.352514Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:03:04.338073Z	Server listening on port 8080
+2025-10-17T17:03:03.851624Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:03:02.296805Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:02:58.818774Z	
+2025-10-17T17:02:54.624360569Z	Container called exit(1).
+2025-10-17T17:02:53.069978749Z	Container called exit(1).
+2025-10-17T17:02:52.500203Z	}
+2025-10-17T17:02:52.500201Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:02:52.500198Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:02:52.500195Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:02:52.500193Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:02:52.500191Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:02:52.500189Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:02:52.500185Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:02:52.500181Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:52.500179Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:52.500176Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:52.500162Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:02:51.913720Z	}
+2025-10-17T17:02:51.913717Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:02:51.913713Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:02:51.913709Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:02:51.913707Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:02:51.913704Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:02:51.913701Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:02:51.913698Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:02:51.913692Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:51.913689Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:51.913685Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:51.913665Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:02:48.447789Z	
+2025-10-17T17:02:48.172361Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:48.170116Z	Server listening on port 8080
+2025-10-17T17:02:47.919434Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:47.167946Z	
+2025-10-17T17:02:47.109010Z	Server listening on port 8080
+2025-10-17T17:02:47.108627Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:47.046659Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:02:46.643812Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:45.646788Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:02:42.163097Z	
+2025-10-17T17:02:41.446529855Z	Container called exit(1).
+2025-10-17T17:02:41.323125445Z	Container called exit(1).
+2025-10-17T17:02:40.124883041Z	Container called exit(1).
+2025-10-17T17:02:39.979602Z	}
+2025-10-17T17:02:39.979599Z	  routine: 'auth_failed'
+2025-10-17T17:02:39.979597Z	  line: '365',
+2025-10-17T17:02:39.979595Z	  file: 'auth.c',
+2025-10-17T17:02:39.979593Z	  constraint: undefined,
+2025-10-17T17:02:39.979590Z	  dataType: undefined,
+2025-10-17T17:02:39.979588Z	  column: undefined,
+2025-10-17T17:02:39.979586Z	  table: undefined,
+2025-10-17T17:02:39.979583Z	  schema: undefined,
+2025-10-17T17:02:39.979581Z	  where: undefined,
+2025-10-17T17:02:39.979579Z	  internalQuery: undefined,
+2025-10-17T17:02:39.979576Z	  internalPosition: undefined,
+2025-10-17T17:02:39.979574Z	  position: undefined,
+2025-10-17T17:02:39.979571Z	  hint: undefined,
+2025-10-17T17:02:39.979568Z	  detail: undefined,
+2025-10-17T17:02:39.979566Z	  code: '28P01',
+2025-10-17T17:02:39.979564Z	  severity: 'FATAL',
+2025-10-17T17:02:39.979561Z	  length: 108,
+2025-10-17T17:02:39.979558Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:39.979555Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:39.979551Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:39.979541Z	Failed to connect to the database: error: password authentication failed for user "studio_admin"
+2025-10-17T17:02:39.799646Z	}
+2025-10-17T17:02:39.799644Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:02:39.799642Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:02:39.799640Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:02:39.799637Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:02:39.799635Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:02:39.799633Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:02:39.799630Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:02:39.799627Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:39.799624Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:39.799621Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:39.799613Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:02:39.788780Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:39.786727Z	Server listening on port 8080
+2025-10-17T17:02:39.455270Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:39.400329Z	}
+2025-10-17T17:02:39.400327Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:02:39.400325Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:02:39.400322Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:02:39.400320Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:02:39.400318Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:02:39.400315Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:02:39.400312Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:02:39.400308Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:39.400306Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:39.400302Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:39.400284Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:02:38.986837Z	
+2025-10-17T17:02:38.907047Z	
+2025-10-17T17:02:38.866136Z	
+2025-10-17T17:02:38.690852Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:02:36.436293Z	
+2025-10-17T17:02:36.337165Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:36.333846Z	Server listening on port 8080
+2025-10-17T17:02:36.310886Z	Server listening on port 8080
+2025-10-17T17:02:36.310851Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:35.939410Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:35.895215Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:35.701436408Z	Container called exit(1).
+2025-10-17T17:02:35.046772Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:02:34.811103Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T17:02:33.410464Z	}
+2025-10-17T17:02:33.410461Z	      at Pipe.<anonymous> (node:net:343:12)
+2025-10-17T17:02:33.410458Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:02:33.410456Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:02:33.410454Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:02:33.410451Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:02:33.410449Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:02:33.410445Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:02:33.410441Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:33.410438Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:33.410435Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:33.410426Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:02:30.380055Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:30.379366Z	Server listening on port 8080
+2025-10-17T17:02:30.020644Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:29.283386Z	
+2025-10-17T17:02:27.690317Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:02:24.121798378Z	Container called exit(1).
+2025-10-17T17:02:22.309951Z	}
+2025-10-17T17:02:22.309947Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:02:22.309945Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:02:22.309942Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:02:22.309939Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:02:22.309936Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:02:22.309934Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:02:22.309931Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:02:22.309926Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:22.309923Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:22.309920Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:22.309910Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:02:19.781348Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:19.775887Z	Server listening on port 8080
+2025-10-17T17:02:19.456043Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:18.690397Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:02:17.120240519Z	Container called exit(1).
+2025-10-17T17:02:15.510763Z	}
+2025-10-17T17:02:15.510760Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:02:15.510756Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:02:15.510753Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:02:15.510750Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:02:15.510747Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:02:15.510745Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:02:15.510742Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:02:15.510737Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:15.510734Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:15.510730Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:15.510720Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:02:12.794851Z	Server listening on port 8080
+2025-10-17T17:02:12.794604Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:12.440988Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:11.690271Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:02:09.109786424Z	Container called exit(1).
+2025-10-17T17:02:07.010562Z	}
+2025-10-17T17:02:07.010560Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:02:07.010557Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:02:07.010554Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:02:07.010552Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:02:07.010549Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:02:07.010546Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:02:07.010543Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:02:07.010537Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:02:07.010534Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:02:07.010530Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:02:07.010519Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:02:04.781401Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:02:04.777149Z	Server listening on port 8080
+2025-10-17T17:02:04.428971Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:02:03.690124Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:02:00.062611937Z	Container called exit(1).
+2025-10-17T17:01:58.210712Z	}
+2025-10-17T17:01:58.210709Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:01:58.210706Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:01:58.210702Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:01:58.210699Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:01:58.210696Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:01:58.210694Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:01:58.210691Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:01:58.210686Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:01:58.210684Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:01:58.210680Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:01:58.210670Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:01:55.712385Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:01:55.709625Z	Server listening on port 8080
+2025-10-17T17:01:55.383587Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:01:54.689991Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:01:50.093225581Z	Container called exit(1).
+2025-10-17T17:01:48.110109Z	}
+2025-10-17T17:01:48.110106Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:01:48.110103Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:01:48.110099Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:01:48.110096Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:01:48.110093Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:01:48.110089Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:01:48.110085Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:01:48.110077Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:01:48.110073Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:01:48.110069Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:01:48.110056Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:01:45.756935Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:01:45.753741Z	Server listening on port 8080
+2025-10-17T17:01:45.420899Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:01:44.690043Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:01:44.100506038Z	Container called exit(1).
+2025-10-17T17:01:42.211220Z	}
+2025-10-17T17:01:42.211217Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:01:42.211214Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:01:42.211212Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:01:42.211210Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:01:42.211208Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:01:42.211205Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:01:42.211203Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:01:42.211198Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:01:42.211195Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:01:42.211192Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:01:42.211181Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:01:39.812124Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:01:39.806671Z	Server listening on port 8080
+2025-10-17T17:01:39.434221Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:01:38.689930Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:01:36.110021701Z	Container called exit(1).
+2025-10-17T17:01:33.610858Z	}
+2025-10-17T17:01:33.610855Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:01:33.610852Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:01:33.610850Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:01:33.610848Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:01:33.610845Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:01:33.610843Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:01:33.610840Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:01:33.610835Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:01:33.610833Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:01:33.610829Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:01:33.610820Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:01:30.797127Z	Server listening on port 8080
+2025-10-17T17:01:30.796766Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:01:30.443923Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:01:29.689935Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:01:27.074125974Z	Container called exit(1).
+2025-10-17T17:01:25.410282Z	}
+2025-10-17T17:01:25.410279Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:01:25.410277Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:01:25.410274Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:01:25.410272Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:01:25.410269Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:01:25.410266Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:01:25.410263Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:01:25.410258Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:01:25.410255Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:01:25.410251Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:01:25.410241Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:01:22.739024Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:01:22.731035Z	Server listening on port 8080
+2025-10-17T17:01:22.396933Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:01:21.689508Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:01:18.093163200Z	Container called exit(1).
+2025-10-17T17:01:16.410350Z	}
+2025-10-17T17:01:16.410346Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:01:16.410342Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:01:16.410338Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:01:16.410334Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:01:16.410330Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:01:16.410327Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:01:16.410323Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:01:16.410316Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:01:16.410312Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:01:16.410307Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:01:16.410294Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:01:13.754744Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:01:13.750161Z	Server listening on port 8080
+2025-10-17T17:01:13.419156Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:01:12.689319Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:01:11.231492225Z	Container called exit(1).
+2025-10-17T17:01:09.410463Z	}
+2025-10-17T17:01:09.410460Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:01:09.410458Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:01:09.410456Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:01:09.410453Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:01:09.410451Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:01:09.410448Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:01:09.410446Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:01:09.410441Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:01:09.410438Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:01:09.410434Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:01:09.410425Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:01:06.938233Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:01:06.931346Z	Server listening on port 8080
+2025-10-17T17:01:06.567414Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:01:05.689354Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:01:02.117820290Z	Container called exit(1).
+2025-10-17T17:01:00.610042Z	}
+2025-10-17T17:01:00.610040Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:01:00.610038Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:01:00.610035Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:01:00.610033Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:01:00.610031Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:01:00.610028Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:01:00.610026Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:01:00.610021Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:01:00.610018Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:01:00.610015Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:01:00.610007Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:00:57.773990Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:00:57.765435Z	Server listening on port 8080
+2025-10-17T17:00:57.440417Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:00:56.689314Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:00:54.420345Z	Container called exit(1).
+2025-10-17T17:00:53.465526Z	}
+2025-10-17T17:00:53.465524Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:00:53.465521Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:00:53.465519Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:00:53.465517Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:00:53.465514Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:00:53.465512Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:00:53.465509Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:00:53.465504Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:00:53.465502Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:00:53.465499Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:00:53.465490Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:00:51.436772Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:00:51.436654Z	Server listening on port 8080
+2025-10-17T17:00:51.186234Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:00:48.689137Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:00:46.556590051Z	Container called exit(1).
+2025-10-17T17:00:44.810207Z	}
+2025-10-17T17:00:44.810205Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:00:44.810203Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:00:44.810201Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:00:44.810198Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:00:44.810196Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:00:44.810193Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:00:44.810191Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:00:44.810187Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:00:44.810184Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:00:44.810181Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:00:44.810172Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:00:42.198868Z	Server listening on port 8080
+2025-10-17T17:00:42.198506Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:00:41.876219Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:00:40.689088Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:00:38.094604398Z	Container called exit(1).
+2025-10-17T17:00:36.410221Z	}
+2025-10-17T17:00:36.410217Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:00:36.410214Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:00:36.410211Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:00:36.410208Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:00:36.410205Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:00:36.410202Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:00:36.410199Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:00:36.410194Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:00:36.410189Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:00:36.410186Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:00:36.410173Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:00:33.777823Z	Server listening on port 8080
+2025-10-17T17:00:33.777592Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:00:33.418958Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:00:32.689009Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:00:30.521821Z	Container called exit(1).
+2025-10-17T17:00:29.390603Z	}
+2025-10-17T17:00:29.390601Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:00:29.390599Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:00:29.390596Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:00:29.390592Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:00:29.390590Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:00:29.390588Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:00:29.390585Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:00:29.390581Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:00:29.390578Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:00:29.390575Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:00:29.390566Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:00:27.382469Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:00:27.382065Z	Server listening on port 8080
+2025-10-17T17:00:27.132265Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:00:24.688806Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:00:20.099606666Z	Container called exit(1).
+2025-10-17T17:00:18.210477Z	}
+2025-10-17T17:00:18.210474Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:00:18.210471Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:00:18.210468Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:00:18.210464Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:00:18.210462Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:00:18.210459Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:00:18.210456Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:00:18.210450Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:00:18.210441Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:00:18.210437Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:00:18.210425Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:00:15.771067Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:00:15.767538Z	Server listening on port 8080
+2025-10-17T17:00:15.433155Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:00:14.688643Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:00:12.121791389Z	Container called exit(1).
+2025-10-17T17:00:10.510477Z	}
+2025-10-17T17:00:10.510475Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:00:10.510472Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:00:10.510470Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:00:10.510467Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:00:10.510464Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:00:10.510461Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:00:10.510457Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:00:10.510451Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:00:10.510448Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:00:10.510444Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:00:10.510434Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T17:00:07.810218Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T17:00:07.807238Z	Server listening on port 8080
+2025-10-17T17:00:07.464564Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T17:00:06.688486Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T17:00:04.120278540Z	Container called exit(1).
+2025-10-17T17:00:02.310098Z	}
+2025-10-17T17:00:02.310096Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T17:00:02.310093Z	      at Socket.emit (node:events:524:28)
+2025-10-17T17:00:02.310090Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T17:00:02.310087Z	      at Connection.emit (node:events:524:28)
+2025-10-17T17:00:02.310085Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T17:00:02.310082Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T17:00:02.310079Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T17:00:02.310075Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T17:00:02.310072Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T17:00:02.310068Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T17:00:02.310056Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:59:59.775304Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:59:59.767910Z	Server listening on port 8080
+2025-10-17T16:59:59.447491Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:59:58.688430Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:59:56.111781690Z	Container called exit(1).
+2025-10-17T16:59:54.110737Z	}
+2025-10-17T16:59:54.110735Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:59:54.110732Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:59:54.110730Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:59:54.110727Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:59:54.110725Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:59:54.110722Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:59:54.110719Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:59:54.110714Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:59:54.110712Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:59:54.110708Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:59:54.110698Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:59:51.772202Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:59:51.764854Z	Server listening on port 8080
+2025-10-17T16:59:51.437399Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:59:50.688283Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:59:48.102701225Z	Container called exit(1).
+2025-10-17T16:59:46.210375Z	}
+2025-10-17T16:59:46.210373Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:59:46.210370Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:59:46.210368Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:59:46.210365Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:59:46.210363Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:59:46.210360Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:59:46.210358Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:59:46.210353Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:59:46.210350Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:59:46.210347Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:59:46.210341Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:59:43.790166Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:59:43.782600Z	Server listening on port 8080
+2025-10-17T16:59:43.422300Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:59:42.688109Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:59:39.075907904Z	Container called exit(1).
+2025-10-17T16:59:37.210751Z	}
+2025-10-17T16:59:37.210748Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:59:37.210745Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:59:37.210743Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:59:37.210741Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:59:37.210738Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:59:37.210736Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:59:37.210733Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:59:37.210729Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:59:37.210726Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:59:37.210722Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:59:37.210712Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:59:34.743636Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:59:34.739511Z	Server listening on port 8080
+2025-10-17T16:59:34.404035Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:59:33.688304Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:59:33.065219949Z	Container called exit(1).
+2025-10-17T16:59:31.810165Z	}
+2025-10-17T16:59:31.810162Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:59:31.810160Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:59:31.810157Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:59:31.810154Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:59:31.810151Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:59:31.810148Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:59:31.810145Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:59:31.810140Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:59:31.810136Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:59:31.810132Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:59:31.810121Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:59:28.729301Z	Server listening on port 8080
+2025-10-17T16:59:28.728959Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:59:28.393028Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:59:27.688155Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:59:27.354919Z	
+2025-10-17T16:59:26.104709922Z	Container called exit(1).
+2025-10-17T16:59:24.510410Z	}
+2025-10-17T16:59:24.510407Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:59:24.510405Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:59:24.510402Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:59:24.510400Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:59:24.510397Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:59:24.510395Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:59:24.510392Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:59:24.510388Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:59:24.510385Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:59:24.510382Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:59:24.510372Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:59:21.820059Z	Server listening on port 8080
+2025-10-17T16:59:21.819814Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:59:21.485948Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:59:20.687855Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:59:17.105056879Z	Container called exit(1).
+2025-10-17T16:59:16.410776Z	}
+2025-10-17T16:59:16.410773Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:59:16.410771Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:59:16.410769Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:59:16.410766Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:59:16.410763Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:59:16.410760Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:59:16.410758Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:59:16.410753Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:59:16.410750Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:59:16.410747Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:59:16.410736Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:59:13.846455Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:59:13.842506Z	Server listening on port 8080
+2025-10-17T16:59:13.496255Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:59:12.687923Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:59:08.115542813Z	Container called exit(1).
+2025-10-17T16:59:06.611915Z	}
+2025-10-17T16:59:06.611913Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:59:06.611910Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:59:06.611907Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:59:06.611905Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:59:06.611902Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:59:06.611899Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:59:06.611896Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:59:06.611889Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:59:06.611886Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:59:06.611883Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:59:06.611873Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:59:03.885112Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:59:03.884753Z	Server listening on port 8080
+2025-10-17T16:59:03.516081Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:59:02.687663Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:58:59.105361665Z	Container called exit(1).
+2025-10-17T16:58:58.121842Z	}
+2025-10-17T16:58:58.121838Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:58:58.121835Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:58:58.121832Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:58:58.121828Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:58:58.121824Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:58:58.121821Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:58:58.121818Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:58:58.121811Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:58:58.121808Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:58:58.121803Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:58:58.121790Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:58:55.867021Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:58:55.859284Z	Server listening on port 8080
+2025-10-17T16:58:55.503806Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:58:54.687644Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:58:49.652249613Z	Container called exit(1).
+2025-10-17T16:58:48.910266Z	}
+2025-10-17T16:58:48.910263Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:58:48.910260Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:58:48.910258Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:58:48.910256Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:58:48.910253Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:58:48.910250Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:58:48.910248Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:58:48.910243Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:58:48.910241Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:58:48.910237Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:58:48.910227Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:58:46.391220Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:58:46.385810Z	Server listening on port 8080
+2025-10-17T16:58:46.034615Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:58:44.687598Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:58:39.227279232Z	Container called exit(1).
+2025-10-17T16:58:38.212856Z	}
+2025-10-17T16:58:38.212854Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:58:38.212848Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:58:38.212846Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:58:38.212843Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:58:38.212840Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:58:38.212838Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:58:38.212835Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:58:38.212830Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:58:38.212827Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:58:38.212823Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:58:38.212813Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:58:35.941984Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:58:35.938457Z	Server listening on port 8080
+2025-10-17T16:58:35.613034Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:58:34.687573Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:58:31.197667142Z	Container called exit(1).
+2025-10-17T16:58:30.138832Z	
+2025-10-17T16:58:29.889069Z	}
+2025-10-17T16:58:29.889066Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:58:29.889064Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:58:29.889062Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:58:29.889059Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:58:29.889057Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:58:29.889055Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:58:29.889053Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:58:29.889048Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:58:29.889045Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:58:29.889042Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:58:29.889032Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:58:29.697104477Z	Container called exit(1).
+2025-10-17T16:58:29.132396Z	
+2025-10-17T16:58:29.079833Z	
+2025-10-17T16:58:28.318696370Z	Container called exit(1).
+2025-10-17T16:58:28.210472Z	}
+2025-10-17T16:58:28.210469Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:58:28.210466Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:58:28.210463Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:58:28.210460Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:58:28.210457Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:58:28.210454Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:58:28.210451Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:58:28.210447Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:58:28.210444Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:58:28.210441Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:58:28.210430Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:58:27.909920Z	}
+2025-10-17T16:58:27.909918Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:58:27.909915Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:58:27.909911Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:58:27.909908Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:58:27.909904Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:58:27.909902Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:58:27.909898Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:58:27.909893Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:58:27.909891Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:58:27.909888Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:58:27.909868Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:58:26.939908Z	Server listening on port 8080
+2025-10-17T16:58:26.939506Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:58:26.670779Z	
+2025-10-17T16:58:26.603647Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:58:25.786438Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:58:25.539227Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:58:25.533173Z	Server listening on port 8080
+2025-10-17T16:58:25.433592Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:58:25.432229Z	Server listening on port 8080
+2025-10-17T16:58:25.195440Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:58:24.983814Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:58:23.687140Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T16:58:23.459682Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T16:58:23.265122Z	Container called exit(1).
+2025-10-17T16:58:22.537453Z	}
+2025-10-17T16:58:22.537450Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:58:22.537447Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:58:22.537442Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:58:22.537438Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:58:22.537434Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:58:22.537431Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:58:22.537427Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:58:22.537420Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:58:22.537416Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:58:22.537412Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:58:22.537395Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:58:20.619908Z	}
+2025-10-17T16:58:20.619904Z	  help: 'https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/'
+2025-10-17T16:58:20.619900Z	  code: 'ERR_ERL_UNEXPECTED_X_FORWARDED_FOR',
+2025-10-17T16:58:20.619893Z	ValidationError: The 'X-Forwarded-For' header is set but the Express 'trust proxy' setting is false (default). This could indicate a misconfiguration which would prevent express-rate-limit from accurately identifying users. See https://express-rate-limit.github.io/ERR_ERL_UNEXPECTED_X_FORWARDED_FOR/ for more information.
+    at Object.xForwardedForHeader (/app/backend/node_modules/express-rate-limit/dist/index.cjs:185:13)
+    at wrappedValidations.<computed> [as xForwardedForHeader] (/app/backend/node_modules/express-rate-limit/dist/index.cjs:397:22)
+    at Object.keyGenerator (/app/backend/node_modules/express-rate-limit/dist/index.cjs:658:20)
+    at /app/backend/node_modules/express-rate-limit/dist/index.cjs:710:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /app/backend/node_modules/express-rate-limit/dist/index.cjs:691:5 {
+2025-10-17T16:58:20.531492Z	Server listening on port 8080
+2025-10-17T16:58:20.531153Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:58:20.257296Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:58:19.595499Z	
+2025-10-17T16:58:17.162070Z	Starting new instance. Reason: AUTOSCALING - Instance started due to configured scaling factors (e.g. CPU utilization, request throughput, etc.) or no existing capacity for current traffic.
+2025-10-17T16:58:17.160735Z	
+2025-10-17T16:58:16.858049Z	}
+2025-10-17T16:58:16.858047Z	      at TCP.<anonymous> (node:net:343:12)
+2025-10-17T16:58:16.858044Z	      at Socket.emit (node:events:524:28)
+2025-10-17T16:58:16.858042Z	      at Socket.<anonymous> (/app/backend/node_modules/pg/lib/connection.js:62:12)
+2025-10-17T16:58:16.858033Z	      at Connection.emit (node:events:524:28)
+2025-10-17T16:58:16.858030Z	      at Object.onceWrapper (node:events:638:28)
+2025-10-17T16:58:16.858028Z	      at Connection.<anonymous> (/app/backend/node_modules/pg/lib/client.js:136:73)
+2025-10-17T16:58:16.858025Z	  [cause]: Error: Connection terminated unexpectedly
+2025-10-17T16:58:16.858018Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:58:16.858015Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:58:16.858012Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:58:16.857997Z	Failed to connect to the database: Error: Connection terminated due to connection timeout
+2025-10-17T16:58:16.851783Z	The request failed because either the HTTP response was malformed or connection to the instance had an error. Additional troubleshooting documentation can be found at: https://cloud.google.com/run/docs/troubleshooting#malformed-response-or-connection-error
+2025-10-17T16:58:15.609355Z	
+2025-10-17T16:58:14.346736Z	
+2025-10-17T16:58:14.292303Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:58:14.290945Z	Server listening on port 8080
+2025-10-17T16:58:13.790402Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:58:12.147184Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T16:58:06.711619Z	
+2025-10-17T16:38:41.893625Z	
+2025-10-17T16:35:16.089365Z	
+2025-10-17T16:35:15.758219695Z	Container called exit(1).
+2025-10-17T16:35:14.801321Z	
+2025-10-17T16:35:14.772868Z	}
+2025-10-17T16:35:14.772866Z	  hostname: 'base'
+2025-10-17T16:35:14.772864Z	  syscall: 'getaddrinfo',
+2025-10-17T16:35:14.772861Z	  code: 'EAI_AGAIN',
+2025-10-17T16:35:14.772858Z	  errno: -3001,
+2025-10-17T16:35:14.772856Z	    at async testConnection (/app/backend/dist/db.js:28:18) {
+2025-10-17T16:35:14.772853Z	    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-10-17T16:35:14.772850Z	    at /app/backend/node_modules/pg-pool/index.js:45:11
+2025-10-17T16:35:14.772834Z	Failed to connect to the database: Error: getaddrinfo EAI_AGAIN base
+2025-10-17T16:35:14.727451Z	Default STARTUP TCP probe succeeded after 1 attempt for container "ai-photo-backend-1" on port 8080.
+2025-10-17T16:35:14.707728Z	Server listening on port 8080
+2025-10-17T16:35:14.292767Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:35:12.776395Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T16:35:06.813479Z	
+2025-10-17T16:20:52.789917Z	
+2025-10-17T16:20:52.674743Z	
+2025-10-17T16:20:52.665202Z	Default STARTUP TCP probe failed 1 time consecutively for container "ai-photo-backend-1" on port 8080. The instance was not started.
+Connection failed with status CANCELLED.
+2025-10-17T16:20:51.319696Z	Container called exit(1).
+2025-10-17T16:20:51.264887Z	Node.js v20.19.5
+2025-10-17T16:20:51.264884Z	Error: GEMINI_API_KEY must be set in the server environment
+    at Object.<anonymous> (/app/backend/dist/services/gemini.service.js:10:11)
+    at Module._compile (node:internal/modules/cjs/loader:1521:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+    at Module.load (node:internal/modules/cjs/loader:1266:32)
+    at Module._load (node:internal/modules/cjs/loader:1091:12)
+    at Module.require (node:internal/modules/cjs/loader:1289:19)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/app/backend/dist/controllers/studio.controller.js:7:26)
+    at Module._compile (node:internal/modules/cjs/loader:1521:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-10-17T16:20:51.264860Z	    ^
+2025-10-17T16:20:51.264857Z	    throw new Error('GEMINI_API_KEY must be set in the server environment');
+2025-10-17T16:20:51.264829Z	/app/backend/dist/services/gemini.service.js:10
+2025-10-17T16:20:50.754105Z	Firebase Admin SDK initialized using Application Default Credentials.
+2025-10-17T16:20:48.881045Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T16:20:43.995198Z	
+2025-10-17T16:19:28.857768Z	
+2025-10-17T16:19:28.747922Z	
+2025-10-17T16:19:26.471783Z	
+2025-10-17T16:10:10.361030Z	
+2025-10-17T16:10:09.502984Z	
+2025-10-17T16:10:09.492125Z	Default STARTUP TCP probe failed 1 time consecutively for container "ai-photo-backend-1" on port 8080. The instance was not started.
+Connection failed with status CANCELLED.
+2025-10-17T16:10:09.403154940Z	Container called exit(1).
+2025-10-17T16:10:09.049522Z	FATAL: DATABASE_URL environment variable is not set.
+2025-10-17T16:10:08.293774Z	Starting new instance. Reason: DEPLOYMENT_ROLLOUT - Instance started due to traffic shifting between revisions due to deployment, traffic split adjustment, or deployment health check.
+2025-10-17T16:08:49.869458Z	

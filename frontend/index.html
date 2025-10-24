@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Product Photo Studio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+      :root {
+        --color-bg: 255 255 255; /* #FFFFFF */
+        --color-surface: 245 245 245; /* #F5F5F5 */
+        --color-border: 224 224 224; /* #E0E0E0 */
+        --color-accent: 60 110 113; /* #3C6E71 */
+        --color-text-primary: 0 0 0; /* #000000 */
+        --color-text-secondary: 68 68 68; /* #444444 */
+      }
+      .dark {
+        --color-bg: 18 18 18; /* #121212 - Will be overridden by body style */
+        --color-surface: 30 30 30; /* #1E1E1E */
+        --color-border: 44 44 44; /* #2C2C2C */
+        --color-accent: 60 110 113; /* #3C6E71 */
+        --color-text-primary: 255 255 255; /* #FFFFFF */
+        --color-text-secondary: 207 207 207; /* #CFCFCF */
+      }
+      .dark body {
+        background-color: #121212;
+        background-image: radial-gradient(circle at 1px 1px, rgba(207, 207, 207, 0.1) 1px, transparent 0);
+        background-size: 2rem 2rem;
+      }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              serif: ['Playfair Display', 'serif'],
+            },
+            colors: {
+              'brand-bg': 'rgb(var(--color-bg) / <alpha-value>)',
+              'brand-surface': 'rgb(var(--color-surface) / <alpha-value>)',
+              'brand-border': 'rgb(var(--color-border) / <alpha-value>)',
+              'brand-accent': 'rgb(var(--color-accent) / <alpha-value>)',
+              'brand-text-primary': 'rgb(var(--color-text-primary) / <alpha-value>)',
+              'brand-text-secondary': 'rgb(var(--color-text-secondary) / <alpha-value>)',
+            },
+            keyframes: {
+              fadeIn: {
+                '0%': { opacity: '0', transform: 'translateY(10px)' },
+                '100%': { opacity: '1', transform: 'translateY(0)' },
+              },
+              pulseRing: {
+                '0%': { transform: 'scale(0.8)', opacity: '1' },
+                '100%': { transform: 'scale(1.4)', opacity: '0' },
+              }
+            },
+            animation: {
+              'fade-in': 'fadeIn 0.5s ease-out forwards',
+              'pulse-ring': 'pulseRing 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+            },
+          }
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/index.tsx"></script>
+  </body>
+</html>

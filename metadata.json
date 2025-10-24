@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Photo Studio",
+  "description": "Upload a product image and provide a prompt to generate professional-looking product photoshoots using AI.",
+  "requestFramePermissions": []
+}
